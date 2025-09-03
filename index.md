@@ -1,4 +1,4 @@
-# Hi, I'm <Aahil. M>
+# Hi, I'm Aahil. M
 Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
