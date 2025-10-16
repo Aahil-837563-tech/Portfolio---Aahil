@@ -3,8 +3,8 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
 
 ## Highlights
 - 🔧 Project 1: *Digital Citzenship - Internet Safety* – *Prezi, Slideshow presentation*
-- 🧠 Concept I learned: *How to maintain internet safety and it's importance*
-- 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
+  - 🧠 Concept I learned: *How to maintain internet safety and it's importance*
+  - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 
 - 🔧 Project 2: *trtyrtyr* – *rtyrtyryr*
