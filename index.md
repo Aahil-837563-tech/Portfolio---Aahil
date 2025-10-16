@@ -7,12 +7,12 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
   - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 
-- 🔧 Project 2: *trtyrtyr* – *rtyrtyryr*
-  - 🧠 Concept I learned: *rtyrtur6urt*
+- 🔧 Project 2: *Unit 2 Assesment* – *Nameplate*
+  - 🧠 Concept I learned: *I used all my past knowledge acummulated through the unit and applied it to one canvas*
   - 📝 Blog/Reflection: [Reflection #2](./posts/second_reflection.md)
   
 ## About me
-I am 16 years old and I like to watch movies and play horror games..
+I am 16 years old and I like to watch movies and play horror games...
 
 ---
 *Update this page by editing `index.md` in your repository.*
