@@ -13,7 +13,7 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
  
 - 🔧 Project 3: *Coure Culminating Learning Logs* – *Horror Game development*
   - 🧠 Concept I learned: *I used all my past knowledge acummulated through the course and applied it to create one video game. My progress was was captured through the use of learning logs that spanned for 5 days.*
-  - 📝 Blog/Reflection: [Reflection #2](./posts/third_reflection.md)
+  - 📝 Blog/Reflection: [Reflection #3](./posts/third_reflection.md)
   
 ## About me
 I am 16 years old and I like to watch movies and play horror games...
